@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Gayathri, a detail-oriented and highly analytical software engineer with a background in application development and data analysis.I'm always eager to take on new challenges and dive deeper into data landscapes.I'm excellent at noticing and fixing bugs.I can swiftly identify the rootcause of any problem and develop an effective solution.
+I am Gayathri, a detail-oriented and highly analytical software engineer with a background in application development, application support and data analysis.I'm always eager to take on new challenges and dive deeper into data landscapes.I'm excellent at noticing and fixing bugs.I can swiftly identify the rootcause of any problem and develop an effective solution.
 These repositories are a compilation of all the projects I have done for academic, self-learning and hobby purposes.
 <!--
 **GayathriPunukollu/GayathriPunukollu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
